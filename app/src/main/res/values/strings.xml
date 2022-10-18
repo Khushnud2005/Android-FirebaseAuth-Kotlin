@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="true">Android-Firebase</string>
+    <string name="error_weak_password" translatable="false">The given password is invalid. [ Password should be at least 6 characters ]</string>
+    <string name="error_invalid_email">The email address is badly formatted.</string>
+    <string name="error_user_exists">The email address is already in use by another account.</string>
+    <string name="error_user_not_found">There is no user record corresponding to this identifier. The user may have been deleted.</string>
+    <string name="error_wrong_password" translatable="false">The password is invalid or the user does not have a password.</string>
+
+</resources>
