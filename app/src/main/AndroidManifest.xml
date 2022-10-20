@@ -2,7 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="uz.example.android_firebase">
-    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -13,9 +15,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar"
         tools:targetApi="31">
-        <activity android:name=".activity.MainActivity"/>
-        <activity android:name=".activity.SignInActivity"/>
-        <activity android:name=".activity.SignUpActivity"/>
+        <activity android:name=".activity.EditActivity"/>
+        <activity android:name=".activity.CreateActivity" />
+        <activity android:name=".activity.MainActivity" />
+        <activity android:name=".activity.SignInActivity" />
+        <activity android:name=".activity.SignUpActivity" />
         <activity
             android:name=".activity.SplashActivity"
             android:exported="true">

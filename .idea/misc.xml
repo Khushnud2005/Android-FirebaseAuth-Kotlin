@@ -3,14 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/SuperJet/AndroidStudioProjects/AndroidFirebase/app/src/main/res/drawable/ic_logout.xml" value="0.1805" />
         <entry key="..\:/Users/SuperJet/AndroidStudioProjects/AndroidFirebase/app/src/main/res/drawable/loading_frame.xml" value="0.1805" />
         <entry key="..\:/Users/SuperJet/AndroidStudioProjects/AndroidFirebase/app/src/main/res/drawable/main_gradient.xml" value="0.1805" />
         <entry key="..\:/Users/SuperJet/AndroidStudioProjects/AndroidFirebase/app/src/main/res/drawable/outline_rounded.xml" value="0.1805" />
         <entry key="..\:/Users/SuperJet/AndroidStudioProjects/AndroidFirebase/app/src/main/res/drawable/shape_orange_lite.xml" value="0.1805" />
+        <entry key="..\:/Users/SuperJet/AndroidStudioProjects/AndroidFirebase/app/src/main/res/layout/activity_create.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/SuperJet/AndroidStudioProjects/AndroidFirebase/app/src/main/res/layout/activity_edit.xml" value="0.22083333333333333" />
         <entry key="..\:/Users/SuperJet/AndroidStudioProjects/AndroidFirebase/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/SuperJet/AndroidStudioProjects/AndroidFirebase/app/src/main/res/layout/activity_sign_in.xml" value="0.22083333333333333" />
         <entry key="..\:/Users/SuperJet/AndroidStudioProjects/AndroidFirebase/app/src/main/res/layout/activity_sign_up.xml" value="0.22083333333333333" />
         <entry key="..\:/Users/SuperJet/AndroidStudioProjects/AndroidFirebase/app/src/main/res/layout/custom_progress_dialog.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/SuperJet/AndroidStudioProjects/AndroidFirebase/app/src/main/res/layout/item_posts.xml" value="0.264" />
+        <entry key="..\:/Users/SuperJet/AndroidStudioProjects/AndroidFirebase/app/src/main/res/layout/test.xml" value="0.21979166666666666" />
       </map>
     </option>
   </component>
