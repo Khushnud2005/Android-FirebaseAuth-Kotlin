@@ -16,6 +16,7 @@ class Post {
         this.id = id
         this.title = title
         this.body = body
+        this.image = image
     }
 
 }
